@@ -1,2 +1,2 @@
 # Hypothesis-Testing---Data-Science
-Performing hypothesis testing with Python 3
+Using statistics testing to predict the validity of the hypothesis on various case studies.
